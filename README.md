@@ -1,2 +1,5 @@
 # Dao-Nguyen-Dinh
 agricultural researcher
+My name is Dao. I was born in 1992 in Hai Duong province. I graduated from the National Economic University with an economic degree. My major was socio-economic statistics and currently, I am a researcher at the center for agricultural policy. My center is a public research agency that functions as a policy consultant in agricultural and rural development policy. We have two divisions and I am a member of Economic modeling and policy analysis.
+In my center, my major tasks are statistics and economic analysis, specifically: cleaning and analyzing data, aggregating secondary data from national and international sources, conducting descriptive statistics and running regression. Beside, I am also one of the main staff who are responsible for designing questionnaires; conducting stakeholder interviews, including farmers, local authorities, traders and enterprises; conducting literature reviews and writing final reports.
+Now, I am a master student at Australian National University. My major is International and Development Economics.
